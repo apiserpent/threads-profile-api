@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # Threads Profile API
 
 Fetch a public Threads profile and its latest posts with likes, replies, reposts and media as JSON.
